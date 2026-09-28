@@ -10,6 +10,7 @@
 - 🐍 Using **Python**, **Bash**, and **JavaScript** to build tools/scripts for security testing
 - 🛠️ Daily tools: **Burp Suite**, **Nmap**, **Linux**, and **Git**
 - 🌱 Always learning through **PortSwigger Web Security Academy**, **HackTheBox**, and **HackerOne**
+- 🧠 Currently sharpening skills in: **SQL Injection**, **XSS**, and **Access Control**
 - 📍 Based in **Indonesia**
 - 🎯 Goal: Finding and responsibly disclosing real-world vulnerabilities
 
@@ -22,6 +23,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
 ---
 
@@ -30,6 +32,28 @@
 ![Web App Security](https://img.shields.io/badge/Web_App_Security-FF6B6B?style=for-the-badge)
 ![Bug Bounty](https://img.shields.io/badge/Bug_Bounty-4ECDC4?style=for-the-badge)
 ![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-8B00FF?style=for-the-badge)
+
+---
+
+### 📚 Currently Learning
+
+- 🔍 **PortSwigger Web Security Academy** — SQL Injection, XSS, CSRF
+- 🧪 **HackTheBox** — Beginner machines & challenges
+- 📖 **OWASP Top 10** — Deep dive into common web vulnerabilities
+
+---
+
+### 🗺️ Roadmap 2026
+
+- [x] Setup GitHub & profile README
+- [x] Aktifin 2FA & belajar alur Git dasar
+- [x] Mulai PortSwigger Web Security Academy
+- [ ] Selesai semua lab **Apprentice** di PortSwigger
+- [ ] Bikin repo `write-ups` & dokumentasi semua lab
+- [ ] Selesai lab **Practitioner** pertama
+- [ ] Submit bug pertama di **HackerOne**
+- [ ] Bikin tools security sendiri pakai Python
 
 ---
 
@@ -41,6 +65,18 @@
 
 ---
 
+### 📈 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=n-research&theme=react-dark&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=n-research&theme=darkhub&no-frame=true&row=1&column=6)
+
+---
+
 ### 📫 Connect With Me
 
 - 📧 Email: usufmobile1@gmail.com
@@ -49,4 +85,3 @@
 ---
 
 ⭐️ *From [N,researct](https://github.com/n-research)*
-
